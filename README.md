@@ -3,7 +3,7 @@
 In order to run this model you should adapt the folder to their matched root direction and uncompress the dataset
 
 Dataset used: https://drive.google.com/drive/folders/1RLZypzqf43rWz3NLBcBqYJAsVpzhEyqp?usp=sharing
-Some pretrained models: 
+Some pretrained models: https://drive.google.com/drive/folders/1c-uteo-yph9yqzfyy9GVqDyzkVIsPy1M?usp=sharing
 
 HOW TO RUN THE FILE MODEL
 
